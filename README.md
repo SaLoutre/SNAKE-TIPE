@@ -1,4 +1,6 @@
-=====PROJET=====
+# Projet
+
+# TODO
 
 - Direction
 - Affichage du texte détection d'obstacle (FAIT!!!)
