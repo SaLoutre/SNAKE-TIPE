@@ -25,6 +25,8 @@
   + Notions d'obstacle
   + Notions de déchet
   + Grille de zones
+  + Notion de houle
+  + Notion de courant
 
 - Planification du projet
   + Le minimum requis
