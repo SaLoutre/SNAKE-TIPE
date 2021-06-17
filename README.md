@@ -18,6 +18,7 @@
   + Deep learning?!?!?!😱
   + Communication de zone interdite
   + Notion de meshing? (intercommunication constante entre plusieurs robots/capteurs/etc, et actions orchestré en groupe)
+  + (amélioration de ce qui existe?) Prioriser la récupération de déchets plus poluants. (je pense pas on peut le coder mais de meme que pour le deep learning, utiliser l'argument d'une caméra + IA qui identifie les déchets)
 
 - Définir une scène
   + Plusieurs tableau? (Différents obstacles, aléatoire?, etc)
